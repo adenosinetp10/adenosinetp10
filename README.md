@@ -20,7 +20,7 @@ Hello there! I'm adenosinetp10 from Tamil Nadu, India currently pursuing my Batc
 - **Currently learning**: Python & C
 
 ## 🔭 Currently working on
-- **Hisoka** - Hisoka is a telegram bot that can do a lot of tricks. But most importantly Bungee Gum possesses the properties of both rubber and gum. [Click this(https://t.me/hisokaDankBot) to see Hisoka's tricks in Telegram.
+- **Hisoka** - Hisoka is a telegram bot that can do a lot of tricks. But most importantly Bungee Gum possesses the properties of both rubber and gum. [Click this](https://t.me/hisokaDankBot) to see Hisoka's tricks in Telegram.
 
 ##  🐙 **Github Stats**
 
