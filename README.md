@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://telegra.ph/file/155c176cf362ce729ceb1.jpg">
-</div>
+
 
 # Hey, I'm adenosinetp10 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
