@@ -1,17 +1,8 @@
 
 
-# Hey, I'm adenosinetp10 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+# Hey, I'm adenosinetp10 !
 
-Hello there! I'm adenosinetp10, currently pursuing my Batchelors in Information technology. Spent most of my time watching Anime and playing Games. I was a Biology Student in my High school(doesn't mean I have no interest in Biology now). In addition to it, always had keen interest in Computers since childhood.
-
-## Hobbies
-
-- **Anime** : My fav Anime Character : The King of Heroes, GILGAMESH! from Fate Series. My fave Anime : There's a lot, but I'm mostly into Mystery, Thriller, Action, Adventure.
-- **Games** : Those Pokemon RPG games for GB/GBC/GBA/DS/3DS in childhood , Various PC games, and some multiplayer mobile games.
-- **Shitposting** : On various social media platform.
-- **Eating** : Anything sweet & spicy .
-- **Sleeping** : Yes.
-- **Coding** : yeah, ofcourse.
+Hello.
 
 ## 👩‍💻 Programming Languages
 
